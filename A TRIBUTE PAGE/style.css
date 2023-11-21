@@ -1,0 +1,215 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(6, 9, 6);
+    /*background: none;*/
+    color: rgb(234, 232, 228);
+
+}
+
+.container {
+    margin: 0;
+    padding: auto;
+}
+
+.intro {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    max-width: 78rem;
+    margin: 0px auto;
+    color: black;
+    align-items: center;
+    padding: 0px 0px 0px 1rem;
+}
+
+.img img {
+    border-radius: 50px;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.head h2 {
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    background-color: rgb(201, 153, 81);
+    color: black;
+}
+
+.head h3 {
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: blue;
+    background-color: rgb(127, 193, 193);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(28, 41, 15);
+    background-color: rgb(133, 255, 127);
+
+}
+
+img {
+    display: inline-block;
+    width: 50%;
+    align-items: center;
+}
+
+.int h3 {
+    text-align: center;
+    color: brown;
+    background-color: burlywood;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3%;
+    margin: 3%;
+
+}
+
+.intro img {
+    border-radius: 28%;
+    margin: 0%;
+    margin-left: 5%;
+    padding: 7%;
+}
+
+
+.intro p {
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif cursive;
+    color: rgb(222, 222, 235);
+    margin: -31%;
+    margin-right: 12%;
+}
+
+.intt h3 {
+    text-align: center;
+    color: rgb(230, 13, 13);
+    background-color: rgb(152, 222, 135);
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3%;
+    overflow: hidden;
+    margin: 3%;
+
+}
+
+.life img {
+    border-radius: 46%;
+    margin: 0%;
+    margin-left: -4%;
+    padding: 5%;
+    margin-top: -2%;
+}
+
+
+.life p {
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif cursive;
+    color: rgb(168 168 207);
+    margin: -33%;
+    margin-right: 2%;
+    margin-left: 55%;
+
+}
+
+.inttt h4 {
+    text-align: center;
+    color: rgb(13, 5, 81);
+    background-color: rgb(129, 198, 111);
+    font-size: 37px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 50%;
+    padding-top: 4%;
+}
+
+.book img {
+    border-radius: 30%;
+    margin: 0%;
+    margin-left: 6%;
+    padding: 5%;
+    margin-top: 1%;
+    width: 540px;
+    height: 478px;
+}
+
+
+.book p {
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif cursive;
+    color: rgb(168 168 207);
+    margin: -33%;
+    margin-right: 2%;
+    margin-left: 62%;
+    margin-top: -30%;
+}
+
+.a {
+    margin-top: 45%;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(25, 25, 215);
+    background-color: rgb(234, 177, 93);
+}
+
+footer img {
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    border-color: bisque;
+    border-radius: 50%;
+    margin-left: 47%;
+}
+
+header img {
+    width: 90px;
+    height: 90px;
+    align-items: center;
+    border-color: bisque;
+    border-radius: 50%;
+    border-image-repeat: repeat;
+    margin-left: 47%;
+    background-color: bisque;
+}
+
+footer h3 {
+    text-align: left;
+    color: rgb(132, 6, 103);
+    background-color: rgb(139, 184, 128);
+    font-size: 50px;
+    font-family: monospace Georgia, 'Times New Roman', Times, serif;
+    ;
+}
+
+footer h2 {
+    text-align: right;
+    color: rgb(132, 6, 103);
+    background-color: rgb(139, 184, 128);
+    font-size: 50px;
+    font-family: monospace Georgia, 'Times New Roman', Times, serif;
+    ;
+}
+
+header h3 {
+    text-align: left;
+    color: rgb(132, 6, 103);
+    background-color: rgb(139, 184, 128);
+    font-size: 50px;
+    font-family: monospace Georgia, 'Times New Roman', Times, serif;
+    ;
+}
